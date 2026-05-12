@@ -14,7 +14,7 @@
     "bot-wa",
     "multi-device"
   ],
-  "author": "Carlos",
+  "author": "bot",
   "license": "MIT",
   "engines": {
     "node": ">=21.7.3",
