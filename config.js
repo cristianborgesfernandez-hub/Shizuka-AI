@@ -1,16 +1,16 @@
 import fs from 'fs';
 import chalk from 'chalk';
 
-global.owner = ['5355699866', '5363870693', '17054102764', '595987301197']
+global.owner = ['5351013182',]
 
-global.botname = 'Shizuka-AI'
+global.botname = 'bot'
 global.sessionName = 'Sessions/Owner'
 global.version = '4.7'
 global.pairing_code = true
 global.number_bot = ''
 global.prefa = '/'
-global.msgglobal = '[εггσг: *tყ℘εεггσг*] ʄεtɕɧ ʄศıɭεɖ'
-globalThis.dev = '☄︎ ℘σшεгεɖ ๖ყ ɱศɢıɕศɭı'
+global.msgglobal = '[εггσг: *bot*] ʄεtɕɧ ʄศıɭεɖ'
+globalThis.dev = 'bot'
 
 global.api = {
   url: 'https://nex-magical.vercel.app',
@@ -25,8 +25,8 @@ global.bot = {
 }
 
 global.mods = [
-  '5355699866',
-  '595975677765'
+  '5351013182',
+  ''
 ]
 
 global.mess = {
